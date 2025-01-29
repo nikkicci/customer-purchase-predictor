@@ -1,4 +1,4 @@
-### 🛍️ Nearest Neighbor Purchase Predictor
+# 🛍️ Nearest Neighbor Purchase Predictor
 
 This project implements a nearest neighbor recommendation system to predict a user's next purchase based on past shopping behavior. It uses similarity between users by comparing their previous purchases.
 
